@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+table,
+th,
+td,
+tr {
+  border-collapse: collapse;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+th {
+  text-align: left;
+  background-color: #202020;
+  color: #e5f0f0;
+  font-size: 1.2em;
+}
+
+td {
+  background-color: #e5f0f0;
+}

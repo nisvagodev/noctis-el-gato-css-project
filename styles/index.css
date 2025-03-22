@@ -1,0 +1,42 @@
+hr {
+  margin-bottom: 20px;
+}
+
+.container {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.sub-title {
+  margin-bottom: 20px;
+}
+
+/* p {
+  margin-bottom: 20px;
+  font-size: 1.2em;
+} */
+
+.image,
+.image2 {
+  width: 20%;
+  height: auto;
+  padding: 20px;
+}
+
+.image {
+  float: right;
+}
+
+.image2 {
+  float: left;
+  width: 30%;
+}
+
+.pirata {
+  width: 20%;
+}
+
+article p {
+  margin-bottom: 30px;
+  font-size: 1.2em;
+}
